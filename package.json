@@ -1,0 +1,30 @@
+{
+  "name": "spotify-tbot",
+  "version": "1.0.0",
+  "description": "Spotify searching bot in telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeRi13/spotify-tbot.git"
+  },
+  "keywords": [
+    "spotify",
+    "telegram",
+    "bot"
+  ],
+  "author": "CodeRi13 <ruto1924@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeRi13/spotify-tbot/issues"
+  },
+  "homepage": "https://github.com/CodeRi13/spotify-tbot#readme",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "telegram-bot-api": "^1.2.0"
+  }
+}
