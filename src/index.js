@@ -1,3 +1,4 @@
-require('./bot');
+import Web from './web';
+import Bot from './bot';
 
-console.log("hello in index js!");
+Web(Bot);
