@@ -14,11 +14,11 @@
 1. The version of `NodeJS` should be higher than `8.x.x`.
 
 2. We need some enviroment value :
-- TOKEN (Telegram token)
-- SPOTIFY_CLIENT_ID (Spotify client id)
-- SPOTIFY_CLIENT_SECRET (Spotify client secret)
-- BOT_URL (If you use webhook, this url should be your webhook url.)
-- PORT (If you need. Default is 80.)
+- `TOKEN` (Telegram token)
+- `SPOTIFY_CLIENT_ID` (Spotify client id)
+- `SPOTIFY_CLIENT_SECRET` (Spotify client secret)
+- `BOT_URL` (If you use webhook, this url should be your webhook url.)
+- `PORT` (If you need. Default is 80.)
 
 
 
