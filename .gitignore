@@ -8,12 +8,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-<<<<<<< HEAD
-=======
 # Build files
 dist
 
->>>>>>> 06a549c109727c4e7549a63d9d0d3ab13ec782a5
 # Runtime data
 pids
 *.pid
@@ -65,9 +62,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
-<<<<<<< HEAD
-# remove dist
-dist
-=======
->>>>>>> 06a549c109727c4e7549a63d9d0d3ab13ec782a5
