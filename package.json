@@ -10,6 +10,9 @@
     "start": "node index.js",
     "postinstall": "npm run build"
   },
+  "engines": {
+    "node": "8.2.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CodeRi13/spotify-tbot.git"
