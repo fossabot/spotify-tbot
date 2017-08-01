@@ -8,7 +8,7 @@
     "build": "babel lib -d dist",
     "watch": "babel lib -d dist -w",
     "start": "node index.js",
-    "postinstall": "npm run build"
+    "postinstall": "npm i && npm run build"
   },
   "repository": {
     "type": "git",
