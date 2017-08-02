@@ -1,9 +1,9 @@
 <p align="center">
     <img width="350" src='https://cdn.rawgit.com/CodeRi13/spotify-tbot/ccb3a755/spotifybot.png'/><br>
     <b>
-      <span>그냥 <code>/suri SPOTIFY_TRACK_URI</code> 을 타이핑 하세요!</span>
-      <br>
-      <span>Just type <code>/suri SPOTIFY_TRACK_URI</code> !</span>
+        <span>그냥 <code>/suri SPOTIFY_TRACK_URI</code> 을 타이핑 하세요!</span>
+        <br>
+        <span>Just type <code>/suri SPOTIFY_TRACK_URI</code> !</span>
     </b>
     <br>
     <br>
