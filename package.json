@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel lib -d dist",
     "watch": "babel lib -d dist -w",
+    "clean": "rm -rf ./dist",
     "start": "node index.js",
     "postinstall": "npm run build"
   },
