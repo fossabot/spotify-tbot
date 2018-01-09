@@ -10,6 +10,8 @@
 </p>
 
 ## Requirement
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FW1m3R%2Fspotify-tbot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FW1m3R%2Fspotify-tbot?ref=badge_shield)
+
 
 1. The version of `NodeJS` should be higher than `8.x.x`.
 
@@ -46,3 +48,7 @@ npm i
 npm run build
 npm run start
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FW1m3R%2Fspotify-tbot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FW1m3R%2Fspotify-tbot?ref=badge_large)
